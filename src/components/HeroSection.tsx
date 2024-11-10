@@ -49,7 +49,7 @@ function HeroSection() {
                 <Image
                 src="/images/hero-img.png"
                 alt="hero-image"
-                className="absolute flex transform translate-x-[52px] -translate-y-2"
+                className="absolute transform translate-x-[52px] -translate-y-2 lg:transform lg:translate-x-[95px] lg:translate-y-8"
                 width={200}
                 height={200}
                 />  
